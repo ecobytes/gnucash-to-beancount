@@ -107,6 +107,7 @@ def sanitize_name(name):
 
 def Open(account, date):
     meta = meta_from(account, 'code description')
+    meta['gnucash_guid'] = account.guid
     name = account_name(account)
     commodity = [commodity_name(account.commodity)] if account.commodity else None
     dates = list(map(lambda split: split.transaction.post_date, account.splits))
@@ -146,13 +147,14 @@ def commodity_name(commodity):
 
 def Commodity(commodity, date):
     meta = meta_from(commodity, 'fullname')
+    meta['gnucash_guid'] = commodity.guid
     name = commodity_name(commodity)
 
     return data.Commodity(meta, date, name)
 
 
 def Price(price):
-    meta = {}
+    meta = {'gnucash_guid': price.guid}
     date = price.date
     currency = commodity_name(price.currency)
     amount = data.Amount(price.value, currency)
@@ -200,6 +202,7 @@ def Posting(split):
 
 def Transaction(txn, postings=None):
     meta = meta_from(txn, 'num notes')
+    meta['gnucash_guid'] = txn.guid
     if 'notes' in meta: meta['notes'] = meta['notes'].replace('"', '\\"')
     date = txn.post_date
     flag = '*'
