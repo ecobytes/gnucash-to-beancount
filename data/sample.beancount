@@ -1,74 +1,74 @@
-2016-11-01 open Assets:Account-Bank                             USD
+2016-11-01 open Assets:GnuCash:Account-Bank                     USD
   gnucash_guid: "aa0f78efcfec18257a9fdadedd05f7ff"
-2016-11-01 open Assets:Account-Cash                             USD
+2016-11-01 open Assets:GnuCash:Account-Cash                     USD
   gnucash_guid: "918b8a7cf3c2a6ee710d9291a32193e6"
-2016-11-01 open Assets:Account-Mutual-Fund                      MYSHARE
+2016-11-01 open Assets:GnuCash:Account-Mutual-Fund              MYSHARE
   gnucash_guid: "3794059cf12d358b72a934f323e76d4c"
-2016-11-01 open Assets:Account-Receivable                       USD
+2016-11-01 open Assets:GnuCash:Account-Receivable               USD
   gnucash_guid: "244eae1d11d4cc724d48206e765e1922"
-2016-11-01 open Assets:Account-Stock                            APPL
+2016-11-01 open Assets:GnuCash:Account-Stock                    APPL
   gnucash_guid: "feffdb6f38172ffbb6b7acb4c5f64d80"
-2016-11-01 open Assets:Account-Trading                          CORP
+2016-11-01 open Assets:GnuCash:Account-Trading                  CORP
   gnucash_guid: "6eb8f3d6879464c426fa9457c4bb6b7d"
-2016-11-01 open Assets:Andrew:Andrew-401k                       USD
+2016-11-01 open Assets:GnuCash:Andrew:Andrew-401k               USD
   gnucash_guid: "e3d8bc84ccf697353aefe783ed3532f7"
-2016-11-01 open Assets:Andrew:Andrew-CD-at-2dot5pct             USD
+2016-11-01 open Assets:GnuCash:Andrew:Andrew-CD-at-2dot5pct     USD
   gnucash_guid: "e3a48b9db68d2247d46f4ce0a04c06e1"
-2016-11-01 open Assets:Andrew:Andrew-Matures-10-19-2019         USD
+2016-11-01 open Assets:GnuCash:Andrew:Andrew-Matures-10-19-2019 USD
   gnucash_guid: "beffd7a7ece00da0b3878d6c7d824589"
-2016-11-01 open Assets:Andrew:Andrew-Saving-and-Loan            USD
+2016-11-01 open Assets:GnuCash:Andrew:Andrew-Saving-and-Loan    USD
   gnucash_guid: "e6e3baa662a46abc63d577058796850b"
-2016-11-01 open Assets:Andrew:Andrews                           USD
+2016-11-01 open Assets:GnuCash:Andrew:Andrews                   USD
   gnucash_guid: "9517fa59881b54f75fa6fafbd853dd2a"
-2016-11-01 open Assets:Andrew:Andrews-Cash                      USD
+2016-11-01 open Assets:GnuCash:Andrew:Andrews-Cash              USD
   gnucash_guid: "7bbe55879c762ab1114a58ba5cfe477d"
-2016-11-01 open Assets:Andrew:Andrews-Hidden                    USD
+2016-11-01 open Assets:GnuCash:Andrew:Andrews-Hidden            USD
   gnucash_guid: "61f56f6d5e5a0c8d33ddca5103ea71ad"
-2017-12-03 open Assets:Andrew:Bad-Transaction                   APPL
+2017-12-03 open Assets:GnuCash:Andrew:Bad-Transaction           APPL
   gnucash_guid: "73795658c73c3ee593e78ef33a59db8f"
-2017-01-22 open Assets:Andrew:IBond                             IBOND-12-1-2013
+2017-01-22 open Assets:GnuCash:Andrew:IBond                     IBOND-12-1-2013
   gnucash_guid: "78894828d1bc420cffbee9fc7c215c35"
-2016-11-01 open Assets:Andrew:X-401-With-Leading-Digit          USD
+2016-11-01 open Assets:GnuCash:Andrew:X-401-With-Leading-Digit  USD
   gnucash_guid: "2652d13179cf36a147dae91adcb26fae"
-2016-11-01 open Assets:Andrew:X-Andrew-With-Leading-Space       USD
+2016-11-01 open Assets:GnuCash:Andrew:X-Andrew-With-Leading-Space USD
   gnucash_guid: "3e99f4d7b6403c178f06466ce4d4f9d6"
-2016-11-01 open Assets:Current                                  USD
+2016-11-01 open Assets:GnuCash:Current                          USD
   description: "Current"
   gnucash_guid: "b9bcc3edb92d2848677b860d696c3834"
-2016-11-01 open Assets:Current:Brazilian-Money                  BRL
+2016-11-01 open Assets:GnuCash:Current:Brazilian-Money          BRL
   gnucash_guid: "b538f041fe3876e5b3938e2d90cb89cd"
-2016-11-01 open Assets:Current:Checking                         USD
+2016-11-01 open Assets:GnuCash:Current:Checking                 USD
   description: "Checking"
   gnucash_guid: "1405bf23f28be9997b3fd92c32b7126a"
-2016-11-02 open Assets:Current:Wallet                           USD
+2016-11-02 open Assets:GnuCash:Current:Wallet                   USD
   description: "Wallet"
   gnucash_guid: "4ef608d43427441c21ade1203fcff453"
-2016-11-08 open Assets:Receivables                              USD
+2016-11-08 open Assets:GnuCash:Receivables                      USD
   description: "Receivables"
   gnucash_guid: "8df0079febe7b428dcc96fedcba51597"
-2016-11-01 open Equity:Opening-Balances                         USD
+2016-11-01 open Equity:GnuCash:Opening-Balances                 USD
   description: "Opening Balances"
   gnucash_guid: "41eaaabd6030ef1c98ef2192d7b8ee5b"
-2016-11-04 open Expenses:Food                                   USD
+2016-11-04 open Expenses:GnuCash:Food                           USD
   gnucash_guid: "533f1c4280e230f82adf0f91ed1dbdb4"
-2016-11-10 open Expenses:House                                  USD
+2016-11-10 open Expenses:GnuCash:House                          USD
   gnucash_guid: "2879874ef2445954c63260fb7058d42a"
-2016-11-05 open Expenses:Insurance                              USD
+2016-11-05 open Expenses:GnuCash:Insurance                      USD
   gnucash_guid: "ef6ab05f15208456cea9ba7af8fcebe1"
-2016-11-05 open Expenses:Tax                                    USD
+2016-11-05 open Expenses:GnuCash:Tax                            USD
   gnucash_guid: "1c72311636f4f242fe3c37052963d173"
-2016-11-05 open Income:Salary                                   USD
+2016-11-05 open Income:GnuCash:Salary                           USD
   description: "Salary"
   gnucash_guid: "81ee1819cb5909aff999900a020ccd35"
-2016-11-01 open Liabilities:Account-Credit-Card                 USD
+2016-11-01 open Liabilities:GnuCash:Account-Credit-Card         USD
   gnucash_guid: "b3fd705a620e76cbae00235310807677"
-2016-11-01 open Liabilities:Account-Payable                     USD
+2016-11-01 open Liabilities:GnuCash:Account-Payable             USD
   gnucash_guid: "69a866ead846c5b3c228cc8cb2cd6cc5"
-2016-11-04 open Liabilities:Credit-Card                         USD
+2016-11-04 open Liabilities:GnuCash:Credit-Card                 USD
   description: "Credit Card"
   gnucash_guid: "bbe1f56fc8a93aa94b03aa5b27bb72b9"
 
-2016-11-02 close Assets:Andrew:Andrews-Hidden
+2016-11-02 close Assets:GnuCash:Andrew:Andrews-Hidden
 
 2016-11-01 commodity USD
   fullname: "US Dollar"
@@ -103,67 +103,67 @@
 
 2016-11-01 * "Everything I have so far"
   gnucash_guid: "f06493940caaeecbfa22c273a5eda091"
-  Assets:Current:Checking   100.00 USD
-  Equity:Opening-Balances  -100.00 USD
+  Assets:GnuCash:Current:Checking   100.00 USD
+  Equity:GnuCash:Opening-Balances  -100.00 USD
 
 2016-11-01 * "Bought BRL 100 @ USD 0.29"
   gnucash_guid: "ca81a4f437b069f4d5b02e77289b7735"
-  Assets:Current:Brazilian-Money  100.00 BRL                                    
-  Assets:Current:Checking         -29.00 USD @ 3.448275862068965517241379310 BRL
+  Assets:GnuCash:Current:Brazilian-Money  100.00 BRL                                    
+  Assets:GnuCash:Current:Checking         -29.00 USD @ 3.448275862068965517241379310 BRL
 
 2016-11-02 * "Withdraw"
   gnucash_guid: "aabf34b419fef958039cf4a899acc64f"
-  Assets:Current:Wallet     100.00 USD
-  Assets:Current:Checking  -100.00 USD
+  Assets:GnuCash:Current:Wallet     100.00 USD
+  Assets:GnuCash:Current:Checking  -100.00 USD
 
 2016-11-05 * "Salary"
   gnucash_guid: "18ba0bc4982a956ec453154d85cc83af"
-  Expenses:Tax               90.00 USD
-  Expenses:Insurance         10.00 USD
-  Assets:Current:Checking   800.00 USD
-  Income:Salary            -900.00 USD
+  Expenses:GnuCash:Tax               90.00 USD
+  Expenses:GnuCash:Insurance         10.00 USD
+  Assets:GnuCash:Current:Checking   800.00 USD
+  Income:GnuCash:Salary            -900.00 USD
 
 2016-11-10 * "Rent"
   gnucash_guid: "69415336d64275d67b37aa9c14804563"
-  Expenses:House            100.00 USD
-  Assets:Current:Checking  -100.00 USD
+  Expenses:GnuCash:House            100.00 USD
+  Assets:GnuCash:Current:Checking  -100.00 USD
 
 2016-11-10 * "Bought BRL 100 @ USD 0.40"
   gnucash_guid: "1e38dde197cf4e41572518fddff6ca87"
-  Assets:Current:Brazilian-Money  100.00 BRL                
-  Assets:Current:Checking         -40.00 USD @ 2.5000000 BRL
+  Assets:GnuCash:Current:Brazilian-Money  100.00 BRL                
+  Assets:GnuCash:Current:Checking         -40.00 USD @ 2.5000000 BRL
 
 2016-11-08 * "Dinner with Friend"
   gnucash_guid: "626314c0458ce5217eb3dcc0f49c1f20"
-  Expenses:Food             100.00 USD
+  Expenses:GnuCash:Food             100.00 USD
     memo: "My cut"
-  Assets:Receivables        100.00 USD
+  Assets:GnuCash:Receivables        100.00 USD
     memo: "Friend will pay me on 12th"
-  Liabilities:Credit-Card  -180.00 USD
+  Liabilities:GnuCash:Credit-Card  -180.00 USD
     memo: "Paying for everyone"
-  Assets:Current:Wallet     -20.00 USD
+  Assets:GnuCash:Current:Wallet     -20.00 USD
     memo: "Tip in Cash"
 
 2016-11-11 * "Lunch"
   gnucash_guid: "eb9b36c0836ae7e7263f0c10dd4f1f5d"
-  Expenses:Food           50.00 USD
-  Assets:Current:Wallet  -50.00 USD
+  Expenses:GnuCash:Food           50.00 USD
+  Assets:GnuCash:Current:Wallet  -50.00 USD
 
 2016-11-12 * "Friend paid me for Dinner"
   gnucash_guid: "ebfb3c5eed2be9b764584e703c4487c3"
-  Assets:Current:Wallet   100.00 USD
-  Assets:Receivables     -100.00 USD
+  Assets:GnuCash:Current:Wallet   100.00 USD
+  Assets:GnuCash:Receivables     -100.00 USD
 
 2016-11-04 * "Dinner"
   gnucash_guid: "4c8d3161c16d6925b60c16b595534f79"
-  Expenses:Food             50.00 USD
-  Liabilities:Credit-Card  -50.00 USD
+  Expenses:GnuCash:Food             50.00 USD
+  Liabilities:GnuCash:Credit-Card  -50.00 USD
 
 2017-01-22 * "Bought iBonds 10 at USD 12.34"
   gnucash_guid: "11244195ca9009eb6a5490aab96dc806"
-  Assets:Andrew:IBond      10.0000 IBOND-12-1-2013 @ 12.34000000 USD
-  Assets:Current:Checking  -123.40 USD                              
+  Assets:GnuCash:Andrew:IBond      10.0000 IBOND-12-1-2013 @ 12.34000000 USD
+  Assets:GnuCash:Current:Checking  -123.40 USD                              
 
 2017-12-03 * "Bad Transaction"
   gnucash_guid: "bf90226113733da484c9646a5138eebc"
-  Assets:Andrew:Bad-Transaction  0.0000 APPL
+  Assets:GnuCash:Andrew:Bad-Transaction  0.0000 APPL

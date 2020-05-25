@@ -70,10 +70,11 @@ def account_name(account):
 
     if head != acc_type:
         # Filter empty parts
-        parts = (p for p in (acc_type, head, tail) if p)
-        name = ACCOUNT_SEP.join(parts)
+        parts = (p for p in (head, tail) if p)
+        tail = ACCOUNT_SEP.join(parts)
+        head = acc_type
 
-    return name
+    return ACCOUNT_SEP.join((head, 'GnuCash', tail))
 
 def sanitize_name(name):
 

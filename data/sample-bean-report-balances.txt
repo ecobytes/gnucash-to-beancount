@@ -1,30 +1,30 @@
-Assets:Account-Bank                       
-Assets:Account-Cash                       
-Assets:Account-Mutual-Fund                
-Assets:Account-Receivable                 
-Assets:Account-Stock                      
-Assets:Account-Trading                    
-Assets:Andrew:Andrew-401k                 
-Assets:Andrew:Andrew-CD-at-2dot5pct       
-Assets:Andrew:Andrew-Matures-10-19-2019   
-Assets:Andrew:Andrew-Saving-and-Loan      
-Assets:Andrew:Andrews                     
-Assets:Andrew:Andrews-Cash                
-Assets:Andrew:Andrews-Hidden              
-Assets:Andrew:Bad-Transaction             
-Assets:Andrew:IBond                           10.0000 IBOND-12-1-2013
-Assets:Andrew:X-401-With-Leading-Digit    
-Assets:Andrew:X-Andrew-With-Leading-Space 
-Assets:Current:Brazilian-Money               200.00   BRL
-Assets:Current:Checking                      507.60   USD
-Assets:Current:Wallet                        130.00   USD
-Assets:Receivables                        
-Equity:Opening-Balances                     -100.00   USD
-Expenses:Food                                200.00   USD
-Expenses:House                               100.00   USD
-Expenses:Insurance                            10.00   USD
-Expenses:Tax                                  90.00   USD
-Income:Salary                               -900.00   USD
-Liabilities:Account-Credit-Card           
-Liabilities:Account-Payable               
-Liabilities:Credit-Card                     -230.00   USD
+Assets:GnuCash:Account-Bank                       
+Assets:GnuCash:Account-Cash                       
+Assets:GnuCash:Account-Mutual-Fund                
+Assets:GnuCash:Account-Receivable                 
+Assets:GnuCash:Account-Stock                      
+Assets:GnuCash:Account-Trading                    
+Assets:GnuCash:Andrew:Andrew-401k                 
+Assets:GnuCash:Andrew:Andrew-CD-at-2dot5pct       
+Assets:GnuCash:Andrew:Andrew-Matures-10-19-2019   
+Assets:GnuCash:Andrew:Andrew-Saving-and-Loan      
+Assets:GnuCash:Andrew:Andrews                     
+Assets:GnuCash:Andrew:Andrews-Cash                
+Assets:GnuCash:Andrew:Andrews-Hidden              
+Assets:GnuCash:Andrew:Bad-Transaction             
+Assets:GnuCash:Andrew:IBond                           10.0000 IBOND-12-1-2013
+Assets:GnuCash:Andrew:X-401-With-Leading-Digit    
+Assets:GnuCash:Andrew:X-Andrew-With-Leading-Space 
+Assets:GnuCash:Current:Brazilian-Money               200.00   BRL
+Assets:GnuCash:Current:Checking                      507.60   USD
+Assets:GnuCash:Current:Wallet                        130.00   USD
+Assets:GnuCash:Receivables                        
+Equity:GnuCash:Opening-Balances                     -100.00   USD
+Expenses:GnuCash:Food                                200.00   USD
+Expenses:GnuCash:House                               100.00   USD
+Expenses:GnuCash:Insurance                            10.00   USD
+Expenses:GnuCash:Tax                                  90.00   USD
+Income:GnuCash:Salary                               -900.00   USD
+Liabilities:GnuCash:Account-Credit-Card           
+Liabilities:GnuCash:Account-Payable               
+Liabilities:GnuCash:Credit-Card                     -230.00   USD

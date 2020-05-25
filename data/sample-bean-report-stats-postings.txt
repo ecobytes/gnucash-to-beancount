@@ -1,17 +1,17 @@
-Account                         Num Postings
-------------------------------  ------------
-Assets:Current:Checking                    7
-Assets:Current:Wallet                      4
-Expenses:Food                              3
-Assets:Current:Brazilian-Money             2
-Liabilities:Credit-Card                    2
-Assets:Receivables                         2
-Equity:Opening-Balances                    1
-Expenses:Tax                               1
-Expenses:Insurance                         1
-Income:Salary                              1
-Expenses:House                             1
-Assets:Andrew:IBond                        1
-Assets:Andrew:Bad-Transaction              1
-~Total~                                   27
-------------------------------  ------------
+Account                                 Num Postings
+--------------------------------------  ------------
+Assets:GnuCash:Current:Checking                    7
+Assets:GnuCash:Current:Wallet                      4
+Expenses:GnuCash:Food                              3
+Assets:GnuCash:Current:Brazilian-Money             2
+Liabilities:GnuCash:Credit-Card                    2
+Assets:GnuCash:Receivables                         2
+Equity:GnuCash:Opening-Balances                    1
+Expenses:GnuCash:Tax                               1
+Expenses:GnuCash:Insurance                         1
+Income:GnuCash:Salary                              1
+Expenses:GnuCash:House                             1
+Assets:GnuCash:Andrew:IBond                        1
+Assets:GnuCash:Andrew:Bad-Transaction              1
+~Total~                                           27
+--------------------------------------  ------------
