@@ -47,9 +47,7 @@ ACCOUNT_TYPES_MAP = _get_account_types_map(ACCOUNT_TYPES)
 ACCOUNT_SEP = ':'
 
 def fix_account_name_part(part):
-    # Beancount account name parts cannot start with a digit
-    if part[0].isdigit(): return 'X-' + part
-    # Nor can they start with a '-'
+    # Beancount account name parts cannot start with a '-'
     if part[0] == '-': return 'X' + part
     # Nor can they start with lower case
     return part[0].upper() + part[1:]
