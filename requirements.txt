@@ -1,2 +1,2 @@
-beancount==2.1.2
-piecash==0.19.0
+beancount==2.3.6
+piecash==1.2.0
