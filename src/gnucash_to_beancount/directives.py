@@ -96,6 +96,8 @@ def sanitize_name(name):
 
     name = name.replace('/', '-')
     name = name.replace('_', '-')
+    name = name.replace('<', '-')
+    name = name.replace('>', '-')
 
     # The above may have created names with multiple dashes
     while True:
